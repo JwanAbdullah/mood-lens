@@ -1,4 +1,4 @@
-# Mood Lens 😄
+# Mood Lens 
 
 A real-time facial expression detection app that turns your webcam into an interactive emotion analyzer.
 
